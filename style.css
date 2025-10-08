@@ -1,5 +1,5 @@
 * {
-  border:solid rebeccapurple 1px;
+  /* border:solid rebeccapurple 1px; */
   box-sizing: border-box;
 }
 
@@ -24,8 +24,8 @@ div{
 }
 
 .divider{
-  color: white;
-  height: 2px;
+  background-color: white;
+  height: 1px;
 }
 
 .justify-center{
@@ -82,3 +82,23 @@ padding: 0px;
 .row-gap-20{
   gap: 20px;
 }
+
+.width-li{
+  width: 200px;;
+}
+.column-gap{
+  column-gap: 30px;
+}
+.margin-bottom-0{
+  margin-bottom: 0px;
+}
+.margin-bottom-16{
+  margin-bottom: 16px;
+}
+ .margin-top-32{
+  margin-top: 32px;
+
+ }
+ .td-width-200{
+  width: 200px;
+ }
